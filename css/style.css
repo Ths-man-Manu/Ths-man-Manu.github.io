@@ -18,6 +18,11 @@ h3{
 	font-style: italic;
 	font-size: 21px;
 }
+h4{
+	letter-spacing: 2px;
+	font-size: 18px;
+	font-style: normal;
+}
 #container{
 	width: 930px;
 	margin: 50px auto 10px auto;
@@ -108,7 +113,6 @@ h2.left{
 #education dv{
 	width:100x;
 	padding:10px 0;
-	float:right;
 }
 
 #education dv h3{
@@ -126,7 +130,6 @@ h2.left{
 #edu{
 	width:100x;
 	padding:10px 0;
-	float:right;
 }
 
 #footer{
